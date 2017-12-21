@@ -1,2 +1,3 @@
-# secdept-2.0
-version 2.0 of secdept application
+# secdept
+secdept
+ this is the new version of secdept 
